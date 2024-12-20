@@ -1,0 +1,29 @@
+.header {
+    // position: fixed;
+    // z-index: 100;
+    width: 100%;
+    background-color: black;
+
+    nav {
+      display: grid;
+      grid-template-columns: 110px 1fr;
+      min-height: 110px;
+
+
+      ul {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+            justify-content: center;
+            align-items: center;
+            list-style: none;
+
+            li {
+                padding: 8px 16px;
+
+                a {
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+}

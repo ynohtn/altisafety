@@ -1,0 +1,64 @@
+.contact {
+  min-height: 85vh;
+
+  h1 {
+    font-size: 48px;
+    text-align: center;
+    padding: 16px 0 0 0;
+  }
+
+  .pres {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    width: 100%;
+    min-height: 50vh;
+
+    div {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      min-width: 300px;
+      max-width: 1200px;
+
+      div {
+        padding-top: 16px;
+
+        p {
+          padding: 8px 0;
+        }
+      }
+    }
+
+    .devis {
+      padding: 48px 0 48px 0;
+
+      h3 {
+        padding: 0 0 8px 0;
+      }
+
+      p {
+        margin: 0 0 16px 0;
+      }
+
+      div {
+        padding: 16px;
+
+        a {
+          font-weight: bold;
+          font-size: 24px;
+
+          div {
+            border: 2px solid white;
+            box-shadow: 0 1px 3px rgba(255, 255, 255, 0.5), 0 1px 2px rgba(255, 255, 255, 0.75);
+            border-radius: 1px;
+          }
+        }
+      }
+    }
+  }
+}
+  
