@@ -17,7 +17,7 @@ export default function Contact() {
                     </figure>
                     <div>
                         <p>
-                            Cordiste lyonnais passioné par la hauteur et l&apos;escalade depuis toujours, j&apos;ai décidé d&apos;allier passion et travail en devenant cordiste en 2022. Après plusieurs années de pratique au sein d&apos;entreprises majeures du milieu de la corde dans toute la France, j&apos;ai finalement décidé d&apos;investir mon savoir faire et ma rigueur dans ma propre activité en devenant indépendant. Profondément humain, j&apos;aime travailler dans une atmospère de confiance avec mes collaborateurs et mes clients.
+                            Cordiste lyonnais passioné par la hauteur et l&apos;escalade depuis toujours, j&apos;ai décidé d&apos;allier passion et travail en devenant cordiste en 2022. Après plusieurs années de pratique au sein d&apos;entreprises majeures du milieu de la corde dans toute la France, j&apos;ai finalement décidé d&apos;investir mon savoir faire et ma rigueur dans ma propre activité en devenant indépendant. Profondément humain, j&apos;aime travailler dans une atmosphère de confiance avec mes collaborateurs et mes clients.
                         </p>
                         <p>
                             Nettoyage de vitre, zinguerie, maçonnerie, sécurisation, maintenance et réparation en milieu urbain, industriel et confiné, je suis capable d&apos;intervenir dans toutes sortes de situations d&apos;accès difficile en toute sécurité. Les CQP Cordiste et Technicien Cordiste, m&apos;ont offert un éventail de techniques permettant de rendre accessible l&apos;inaccessible.
