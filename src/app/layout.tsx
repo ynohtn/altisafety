@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AltiSafety, travaux d'accès difficile",
+  title: "Vertical Ops, travaux d'accès difficile",
   description: "Cordiste spécialiste de l'accès difficile en milieu urbain, industriel et confiné",
 };
 

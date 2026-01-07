@@ -15,7 +15,7 @@ export default function Landing() {
                 />
             </figure>
             <div>
-                <h1>AltiSafety</h1>
+                <h1>Vertical Ops</h1>
                 <h2>Travaux d&apos;accès difficile</h2>
                 <h3>Nettoyage - Maintenance - Sécurisation</h3>
             </div>

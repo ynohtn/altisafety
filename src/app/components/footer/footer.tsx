@@ -6,7 +6,7 @@ export default function Footer() {
     return (
         <footer className={styles.footer}>
             <div>
-                <h1>AltiSafety EI</h1>
+                <h1>Vertical Ops EI</h1>
                 <p>SIRET : 89093916800021</p>
                 <p>Anthony Reynaud</p>
                 <p><a href="tel:+33636521614">+336 36 52 16 14</a></p>
