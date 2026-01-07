@@ -10,7 +10,7 @@ export default function Footer() {
                 <p>SIRET : 89093916800021</p>
                 <p>Anthony Reynaud</p>
                 <p><a href="tel:+33636521614">+336 36 52 16 14</a></p>
-                <p><a href="mailto:altisafetycontact@gmail.com?subject=Demande de devis">altisafetycontact@gmail.com</a></p>
+                <p><a href="mailto:anthony.verticalops@gmail.com?subject=Demande de devis">anthony.verticalops@gmail.com</a></p>
                 <p>6 rue Duhamel, 69002, Lyon</p>
             </div>
             <div>
